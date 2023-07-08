@@ -1,5 +1,11 @@
 # vite-plugin-checker
 
+## 0.6.2
+
+### Patch Changes
+
+- ab70e33: fix config.overlay.panelStyle not be applied at runtime
+
 ## 0.6.1
 
 ### Patch Changes
